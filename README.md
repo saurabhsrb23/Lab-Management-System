@@ -8,7 +8,7 @@ A production-ready, full-stack laboratory management system for managing equipme
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/saurabhsrb23/Lab-Management-System.git
 cd lab-management
 
 # 2. Start everything
